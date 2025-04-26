@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "175a828ca5aba227",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c9308d88b067f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f10af61ad82a7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV_NOTES/JavaScript/Concept/JS_map().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS_map()"
+            }
+          },
+          {
+            "id": "1d62e542817a0728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS_sort().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS_sort()"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37ef5e5016b12990",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d56df8793601e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e50734aa6819aae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0d13d99f59392b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ba0442efcdcc68d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "b18f8191ba143ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de2634afe8b7dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f0510d6ddb5910",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PHP"
+            }
+          },
+          {
+            "id": "840ba1b495d2fe27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PHP"
+            }
+          },
+          {
+            "id": "ddfcccd165d973ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1bada4e56d75f673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PHP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d62e542817a0728",
+  "lastOpenFiles": [
+    "DEV_NOTES/JavaScript/Concept/JS_map().md",
+    "JS_sort().md",
+    "DEV_NOTES/JavaScript/Concept/JS_filter().md",
+    "DEV_NOTES/JavaScript/Concept/JS_indexOf().md",
+    "DEV_NOTES/JavaScript/Concept/JS_POO/JS_POO_Object.md",
+    "Pasted image 20250424095007.png",
+    "JS_POO.md",
+    "DEV_NOTES/JavaScript/Concept/JS_POO",
+    "2025-04-24.md",
+    "DEV_NOTES/JavaScript/Snippet",
+    "DEV_NOTES/JavaScript/Concept",
+    "MVC 22.04.md",
+    "DEV_NOTES/JavaScript",
+    "DEV_NOTES",
+    "Javascript",
+    "$_COOKIE.md",
+    "$_POST, $_GET.md",
+    "PHP/Untitled.canvas",
+    "PHP"
+  ]
+}
