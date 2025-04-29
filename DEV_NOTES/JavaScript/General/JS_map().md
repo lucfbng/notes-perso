@@ -1,3 +1,8 @@
+#javascript #methods
+___
+Back to [[JS_MAP]]
+___
+
 La fonction `map` en JS crée un nouveau tableau en appliquant une fonction donnée à chaque élément du tableau original.
 
 ```js

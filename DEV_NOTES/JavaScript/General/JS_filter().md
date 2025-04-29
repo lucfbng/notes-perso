@@ -1,4 +1,8 @@
+#javascript #methods
 ___
+Back to [[JS_MAP]]
+___
+
 La fonction `filter` en JS crée un nouveau tableau contenant uniquement les éléments qui passent un test spécifié par une fonction.
 
 ```js

@@ -1,7 +1,10 @@
+#javascript #poo
+___
+Back to [[JS_MAP]]
 ___
 
-# ES6 Method (recomanded)
-
+# ES6 Method (better)
+Les classes fournissent une syntaxe pour créer des objets et gérer l'héritage, encapsulant ainsi les données et les comportements dans des structures réutilisables.
 ```js
 class Person {
 	constructor(firstName, lastName, dob) {
@@ -17,8 +20,9 @@ class Person {
 	}
 }
 const personA = new Person('John', 'Doe', '4-3-1980');
+console.log(Person.getBirthYear()); // 1980
 ```
-# Other method 
+# Other method (old)
 
 ```js
 // Constructor function
@@ -41,3 +45,4 @@ const personA = new Person('John', 'Doe', '4-3-1980');
 console.log(personA);
 ```
 
+Voir les sous classes -> [[POO_Sous-classes]]

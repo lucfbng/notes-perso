@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
+      "LiLink",
       "LiFileCode",
       "LiFolderCode",
-      "LiCodepen",
-      "LiDatabase"
+      "LiCodepen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,8 +39,24 @@
     "iconName": "LiFolderCode",
     "iconColor": "#fee334"
   },
-  "DEV_NOTES/JavaScript/Concept/JS_POO": {
+  "DEV_NOTES/JavaScript/JS_MAP.md": {
+    "iconName": "LiLink",
+    "iconColor": "#ff2e2e"
+  },
+  "DEV_NOTES/JavaScript/General/JS_POO": {
     "iconName": "LiFolderCode",
     "iconColor": "#feee39"
+  },
+  "DEV_NOTES/JavaScript/General/JS_Async": {
+    "iconName": "LiFolderCode",
+    "iconColor": "#fff824"
+  },
+  "DEV_NOTES/JavaScript/General/JS_Ajax": {
+    "iconName": "LiFolderCode",
+    "iconColor": "#fff82e"
+  },
+  "DEV_NOTES/React": {
+    "iconName": "LiAtom",
+    "iconColor": "#00ffee"
   }
 }
