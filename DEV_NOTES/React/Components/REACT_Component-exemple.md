@@ -17,7 +17,7 @@ const styles = {
   fontWeight: 'bold',
 }
 
-const App = () => {
+const Header = () => {
   return (
     <>                                                                         // Un composant ne peut avoir qu'un "parent" qui peut être un fragment (<> </>)
     <h1 className="text-3xl font-bold underline" style = {style}>              // className = "" en React, pas de class = ""
@@ -34,5 +34,5 @@ const App = () => {
   )
 }
 
-export default App
+export default Header
 ```

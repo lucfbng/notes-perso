@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSendToBack",
       "LiAtom",
       "LiLink",
       "LiFileCode",
-      "LiFolderCode",
-      "LiCodepen"
+      "LiFolderCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,9 @@
   "DEV_NOTES/React": {
     "iconName": "LiAtom",
     "iconColor": "#00ffee"
+  },
+  "DEV_NOTES/MVC": {
+    "iconName": "LiSendToBack",
+    "iconColor": "#8fa0f5"
   }
 }

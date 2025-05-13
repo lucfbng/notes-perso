@@ -18,5 +18,5 @@ console.log(book.getSummary()) // Les fleurs du mal est écrit par john doe en 2
 console.log(Object.value(book)) // ["Les felurs du mal", "john doe", "2020"]
 console.log(Object.keys(book)) // ["title", "author", "year", "getSummary"]
 ```
- Voir plus -> [[POO_Object-create]]
+ Voir plus -> [[POO_Constructor]]
  

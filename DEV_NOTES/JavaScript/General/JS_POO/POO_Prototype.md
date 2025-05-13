@@ -28,5 +28,5 @@ console.log(book1.getSummary()); // Livre1 est écrit par John Doe en 2010
 console.log(book1.getYears()); // Livre1 est sortis il y a 25 ans
 console.log(book1.updateYear(2000)); // Book {title: "Livre1", author:"John Doe", year:"2000", updateYear: true}
 ```
-Voir d'autres exemples -> [[POO_Object-create]]
+Voir d'autres exemples -> [[POO_Constructor]]
 Aller plus loin -> [[POO_Héritage]]

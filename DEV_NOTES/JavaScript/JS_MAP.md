@@ -8,10 +8,10 @@ ___
 [[JS_filter()]]
 [[JS_sort()]]
 #### POO :
-[[POO_Object-create]]
+[[POO_Constructor]]
 [[POO_Object-litteral]]
 [[POO_Sous-classes]]
-[[POO_Constructor]]
+[[POO_Object-create]]
 [[POO_Héritage]]
 [[POO_Prototype]]
 

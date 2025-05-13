@@ -1,48 +1,27 @@
 #javascript #poo
 ___
-Back to [[JS_MAP]]
+[[JS_MAP]]    |    [[POO_Object-litteral]]    |    [[POO_Constructor]]
 ___
-
-# ES6 Method (better)
-Les classes fournissent une syntaxe pour créer des objets et gérer l'héritage, encapsulant ainsi les données et les comportements dans des structures réutilisables.
-```js
-class Person {
-	constructor(firstName, lastName, dob) {
-		this.firstName = firstName;
-		this.lastName = lastName;
-		this.dob = new Date(dob);
-	}
-	getBirthYear() {
-		return this.dob.getFullYear(); // 1980
-	}
-	getFullName() {
-		return `${this.firstName} ${this.lastName}`; // John Doe
-	}
-}
-const personA = new Person('John', 'Doe', '4-3-1980');
-console.log(Person.getBirthYear()); // 1980
-```
-# Other method (old)
+Un constructeur en JavaScript est une fonction utilisée pour créer et initialiser des objets, généralement définie avec le mot-clé `class` ou `function`.
 
 ```js
-// Constructor function
-function Person(firstName, lastName, dob) {
-	this.firstName = firstName;
-	this.lastName = lastName;
-	this.dob = new Date(dob);
+function Book() {
+	console.log('Livre construit');
 }
-
-Person.prototype.getBirthYear = function() {
-	return this.dob.getFullYear(); // 1980
-}
-Person.prototype.getBirthYear = function() {
-	return `${this.firstName} ${this.lastName}`; // John Doe
-}
-
-// Instanciation d'objet
-const personA = new Person('John', 'Doe', '4-3-1980');
-
-console.log(personA);
+const book1 = new Book(); // Livre construit
 ```
+Le console log marche car la fonction Book() se lance dès qu'on y instancie un objet.
 
-Voir les sous classes -> [[POO_Sous-classes]]
+```js
+function Book(title, author, year) {
+	this.title = title:
+	this.author = author;
+	this.year = year;
+	getSummary: function(){
+		return `${this.title} est écrit par ${this.author} en ${this.year}`;
+	}
+}
+const book1 = new Book('Livre1', 'John Doe', '2010');
+console.log(book1.getSummary) // Livre1 est écrit par John Doe en 2010
+```
+`getSummary` fait partie de l'objet ce qui n'est pas forcément une bonne pratique voir -> [[POO_Prototype]]
