@@ -1,0 +1,73 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "rgb",
+  "colorPicker2": "list",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "DEV_NOTES/ExpressJS": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ]
+    },
+    "DEV_NOTES/JavaScript": {
+      "icon": "editingToolbar",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ],
+      "color": "#ffdd00"
+    },
+    "DEV_NOTES/NodeJS": {
+      "icon": "lucide-file-json",
+      "color": "#009419",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ]
+    },
+    "DEV_NOTES/ProjetFilRouge": {
+      "icon": "lucide-code-2",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ],
+      "color": "#80ff00"
+    },
+    "DEV_NOTES/React": {
+      "icon": "lucide-atom",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ],
+      "color": "#00ccff"
+    },
+    "DEV_NOTES/SYMFONY": {
+      "icon": "lucide-shield",
+      "unsynced": [
+        "bc9889ba3e181970"
+      ],
+      "color": "red"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

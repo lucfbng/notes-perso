@@ -1,12 +1,15 @@
 
 ___
-
 ## ALL 
 #### Concepts :
 [[JS_map()]]
 [[JS_indexOf()]]
 [[JS_filter()]]
 [[JS_sort()]]
+[[Destructuring-Rest.Spread Operator]]
+[[ArrowFunction]]
+[[Template literals]]
+
 #### POO :
 [[POO_Constructor]]
 [[POO_Object-litteral]]
